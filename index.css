@@ -1,0 +1,11 @@
+<style>
+a[href="#tag1"] {background: #FF764E}
+a[href="#tag2"] {background: #5ED3EB}
+a[href="#tag3"] {background: #FFCD69}
+h1 {font-family: Chelsea Market;}
+* {font-family:  Roboto Mono;}
+.highlighted {background: #DDB9A3}
+footer {background: #F9E7DC}
+span {font-weight: bold}
+
+</style>
